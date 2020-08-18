@@ -1,0 +1,51 @@
+<?xml version="1.0"?><svg width="282.19577" height="580.97559" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <title>parachute</title>
+ <defs>
+  <filter height="1.135199" y="-0.067599" width="1.630927" x="-0.315464" id="filter3720">
+   <feGaussianBlur id="feGaussianBlur3722" stdDeviation="0.563329"/>
+  </filter>
+  <clipPath id="clipPath3195" clipPathUnits="userSpaceOnUse">
+   <path fill="none" fill-rule="evenodd" stroke="#000000" stroke-width="1px" id="path3197" d="m-112.814911,-56.460491c-117.949249,42.827231 -179.345154,163.863171 -222.857147,288.571407c0,0 -122.857147,-91.428589 -134.285706,-91.428589c-11.428589,0 185.714294,-231.428558 185.714294,-231.428558l171.428558,34.285721l0,0.000019z"/>
+  </clipPath>
+  <clipPath id="clipPath3203" clipPathUnits="userSpaceOnUse">
+   <path fill="none" fill-rule="evenodd" stroke="#000000" stroke-width="1px" id="path3205" d="m-192.814911,-53.603359c135.597839,95.763668 175.339781,216.896297 222.857151,319.999996l37.142811,-191.428558l-139.999962,-137.142868l-120,8.57143z"/>
+  </clipPath>
+  <clipPath id="clipPath3225" clipPathUnits="userSpaceOnUse">
+   <path fill="none" fill-rule="evenodd" stroke="#000000" stroke-width="1px" id="path3227" d="m-895.672058,60.682339l-8.571411,242.857151l-139.999939,-45.714264c43.556763,-107.10556 101.273438,-151.337524 148.57135,-197.142887z"/>
+  </clipPath>
+  <clipPath id="clipPath4957" clipPathUnits="userSpaceOnUse">
+   <path fill="none" fill-rule="evenodd" stroke="#000000" stroke-width="1px" id="path4959" d="m48.485321,442.650269c0,0 -16.5986,18.542236 -17.857121,28.571472c-1.316311,10.489624 10.714268,33.571411 10.714268,33.571411l-25.714269,-7.142883l-0.71429,-40.714233l33.571411,-14.285767z"/>
+  </clipPath>
+  <clipPath id="clipPath4965" clipPathUnits="userSpaceOnUse">
+   <path fill="none" fill-rule="evenodd" stroke="#000000" stroke-width="1px" id="path4967" d="m51.342468,489.078857c-13.322968,18.809509 -16.340637,37.619019 -16.428558,56.428589l-31.42859,-12.857178l21.42859,-45.714233l26.428558,2.142822z"/>
+  </clipPath>
+  <linearGradient id="linearGradient3245">
+   <stop stop-color="#ffffff" id="stop3247" offset="0"/>
+   <stop stop-color="#ff0000" id="stop3249" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient3229">
+   <stop stop-color="#ffffff" id="stop3231" offset="0"/>
+   <stop stop-color="#ff00ff" id="stop3233" offset="1"/>
+  </linearGradient>
+  <radialGradient r="189.88702" fy="323.81296" fx="336.50632" cy="323.81296" cx="336.50632" gradientTransform="matrix(1.04967, 1.1069e-07, -8.01638e-08, 0.532098, -211.92, -25.8184)" gradientUnits="userSpaceOnUse" id="radialGradient5196" xlink:href="#linearGradient3245"/>
+  <radialGradient r="189.88702" fy="323.81296" fx="336.50632" cy="323.81296" cx="336.50632" gradientTransform="matrix(0.738531, 0, 0, 0.374051, -108.906, 25.7126)" gradientUnits="userSpaceOnUse" id="radialGradient5198" xlink:href="#linearGradient3229"/>
+  <radialGradient r="189.88702" fy="323.81296" fx="336.50632" cy="323.81296" cx="336.50632" gradientTransform="matrix(0.0880454, 0, 0, 0.0118415, 603.64, 108.714)" gradientUnits="userSpaceOnUse" id="svg_1" xlink:href="#linearGradient3229"/>
+ </defs>
+ <metadata id="metadata7">image/svg+xml</metadata>
+ <g>
+  <title>Layer 1</title>
+  <path fill="#000000" fill-rule="nonzero" stroke="#000000" stroke-width="6" stroke-linecap="round" stroke-miterlimit="4" stroke-dashoffset="0" id="path2385" d="m4.61718,213.492676c-24.56953,-177.844666 298.143929,-183.696686 273.346931,3.162903c-22.514938,-13.141525 -35.051865,-43.230865 -52.768906,-30.890503c-45.17392,31.464752 -76.6017,-22.942932 -83.366302,-12.857895c-14.504433,21.623856 -51.843933,47.373337 -94.675983,13.046875c-16.140299,-12.93515 -19.433189,14.593658 -42.53576,27.53862l0.00001,0l0.00001,0z"/>
+  <path opacity="0.515789" fill="url(#radialGradient5198)" fill-rule="nonzero" stroke="#000000" stroke-width="6" stroke-linecap="round" stroke-miterlimit="4" stroke-dashoffset="0" id="path3217" d="m3.77315,212.669205c-24.569529,-177.844654 298.143934,-183.696684 273.346876,3.162903c-22.514893,-13.14151 -35.051834,-43.230865 -52.76889,-30.890503c-45.173889,31.464767 -76.601669,-22.942917 -83.366302,-12.85788c-14.504402,21.62384 -51.84391,47.373337 -94.675953,13.04686c-16.140301,-12.93515 -19.433189,14.593658 -42.53576,27.53862l0.00002,0l0.00001,0z" clip-path="url(#clipPath3195)"/>
+  <path opacity="0.521053" fill="#00ff00" fill-rule="nonzero" stroke="#000000" stroke-width="6" stroke-linecap="round" stroke-miterlimit="4" stroke-dashoffset="0" clip-path="url(#clipPath3225)" d="m3.35962,212.585464c-24.57171,-177.043133 298.170775,-182.868795 273.37152,3.148636c-22.516937,-13.08226 -35.055008,-43.036026 -52.773636,-30.751297c-45.177979,31.322952 -76.608612,-22.839508 -83.373825,-12.799942c-14.505699,21.526382 -51.848579,47.159836 -94.684509,12.988083c-16.141741,-12.876846 -19.43486,14.527893 -42.53955,27.41452z" id="path3215"/>
+  <path fill="none" fill-rule="nonzero" stroke="#000000" stroke-width="3.039215" stroke-linecap="round" stroke-miterlimit="4" stroke-dashoffset="0" id="path2408" d="m277.349548,214.804855l-138.127121,287.456284l-136.010297,-289.237656"/>
+  <path fill="#00ff00" fill-rule="evenodd" stroke="#000000" stroke-width="2.933678" stroke-miterlimit="4" id="path3181" d="m38.360649,183.525726l101.064064,317.17099"/>
+  <path fill="none" fill-rule="evenodd" stroke="#000000" stroke-width="3.421598" stroke-miterlimit="4" id="path3183" d="m144.447449,173.203827l-4.756973,323.816895"/>
+  <path fill="none" fill-rule="evenodd" stroke="#000000" stroke-width="3" stroke-miterlimit="4" id="path3185" d="m234.616714,183.540741l-92.843842,312.469025"/>
+  <path opacity="0.515789" fill="url(#svg_1)" fill-rule="nonzero" stroke="#000000" stroke-width="6" stroke-linecap="round" stroke-miterlimit="4" stroke-dashoffset="0" clip-path="url(#clipPath3195)" d="m187.733978,24.586729c8.483337,-31.643179 -102.942505,-32.684409 -94.380676,0.562761c7.773911,-2.338211 12.102661,-7.691891 18.219971,-5.49622c15.597534,5.5984 26.448868,-4.082141 28.784531,-2.28776c5.008041,3.847448 17.900558,8.428959 32.689529,2.321388c5.572891,-2.301498 6.709854,2.59659 14.686646,4.89983z" id="path3283"/>
+  <path opacity="0.521053" fill="#00ff00" fill-rule="nonzero" stroke="#000000" stroke-width="6" stroke-linecap="round" stroke-miterlimit="4" stroke-dashoffset="0" id="path3285" d="m188.389603,24.680981c8.483322,-31.643191 -102.942535,-32.684411 -94.380661,0.562759c7.773911,-2.338209 12.102615,-7.691891 18.219925,-5.49622c15.597557,5.5984 26.448898,-4.08215 28.784561,-2.28775c5.008057,3.847441 17.900574,8.428949 32.689514,2.321369c5.572891,-2.301489 6.709854,2.596601 14.686661,4.899841z" clip-path="url(#clipPath3225)"/>
+  <path opacity="0.636842" fill="#2539da" fill-rule="nonzero" stroke="#000000" stroke-width="6" stroke-linecap="round" stroke-miterlimit="4" stroke-dashoffset="0" id="path3295" d="m187.150543,24.68096c8.483337,-31.64318 -102.942513,-32.68441 -94.380684,0.562759c7.773911,-2.338209 12.102654,-7.691889 18.219963,-5.49622c15.597549,5.598391 26.448868,-4.08215 28.784531,-2.28775c5.008041,3.847441 17.900558,8.428951 32.689529,2.321371c5.572891,-2.301491 6.709869,2.59659 14.686661,4.899839z" clip-path="url(#clipPath3203)"/>
+  <path fill="#ffccaa" fill-rule="nonzero" stroke-miterlimit="4" filter="url(#filter3720)" id="path5909" d="m139.30455,461.287842l0.29184,12.823914l-2.918518,-3.526581l2.626678,-9.297333z"/>
+  <path fill="#c87137" fill-rule="evenodd" stroke="#000000" stroke-width="1px" id="path4961" d="m120.06601,530.289917l-7.078178,6.383179l-7.078224,31.065002l22.11937,1.702209l11.944458,-25.532898l12.386856,25.958435l21.234573,-1.702209l-3.096695,-31.064941l-50.432159,-6.808777z" clip-path="url(#clipPath4965)"/>
+  <path fill="#ffccaa" fill-rule="evenodd" stroke="#000000" stroke-width="1px" id="path4953" d="m118.738853,493.267273c0,0 13.283455,7.298187 21.234581,6.808777c6.993317,-0.43042 20.349823,-7.659851 20.349823,-7.659851c0,0 17.849777,6.359833 19.465012,13.617493c1.8396,8.265625 -8.847733,28.086121 -8.847733,28.086121c-43.998283,3.558899 -36.216431,-0.414795 -59.279869,1.702209c0,0 -10.368889,-18.054749 -8.847748,-26.383942c1.4646,-8.019745 15.925934,-16.170807 15.925934,-16.170807z" clip-path="url(#clipPath4957)"/>
+ </g>
+</svg>

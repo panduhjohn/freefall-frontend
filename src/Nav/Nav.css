@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.header {
+    width: 100vw;
+    height: 12vh;
+    background-color: rgb(70, 70, 70);
+    position: fixed;
+    
+}
+
+.navbar {
+    width: 100%;
+    padding: 0px;
+    /* position: fixed; */
+    top: 0px;
+    text-align: center;
+    transition: 0.5s;
+    margin-bottom: 30px;
+    z-index: 10;
+   
+}
+
+#main-menu {
+    font-size: 15px;
+    line-height: 1.5em;
+}
+
+.inner-main-menu {
+    margin: 0 auto;
+    width: 1170px;
+    /* width: 100% */
+}
+
+.inner-main-menu ul {
+    margin: 0;
+    padding: 30px 0 0;
+    list-style: none;
+    text-align: right;
+}
+
+.inner-main-menu ul li {
+    float: none;
+    display: inline-block;
+    
+}
+
+.inner-main-menu ul li:nth-child(1) {
+    float: left; 
+}
+
+.inner-main-menu ul li:nth-child(2) {
+    float: left; 
+}
+
+.inner-main-menu ul li:nth-child(3) {
+    float: left; 
+}
+
+.inner-main-menu ul li a{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 500;
+    color: rgb(224, 222, 222);
+    font-size: 20px;
+    text-transform: uppercase;
+    text-decoration: none;
+    display: block;
+    padding: 10px 20px;
+}
+
+.inner-main-menu ul li a:hover{
+    color: #FFFBB6;
+    border-bottom: 2px solid #FFFBB6;  
+}
+
+#main-menu {
+    width: 100%;
+    position: fixed;
+}
+
+#main-logo{
+    height: 120px;
+    width: 300px;
+}
+
+.logo {
+    width: 300px;
+    height: 120px;
+    position: absolute;
+    left: 50%;
+    top: 0;
+    content: '';
+    margin-left: -175px;
+    text-align: center;
+}

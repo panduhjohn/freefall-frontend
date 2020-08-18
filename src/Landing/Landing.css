@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Rock+Salt&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nothing+You+Could+Do&display=swap');
+
+.container {
+    width: 100vw;
+    height: 120vh;
+    background: url('/images/skydivebg.png') center no-repeat;
+    background-size: cover;
+    /* position: relative; */
+    background-repeat: no-repeat;
+    /* padding-top: 100px; */
+    padding-top: 100px
+}
+
+.box1 {
+    width: 50%;
+    height: 300px;
+    margin-left: 80px;
+    font-family: 'Oswald', sans-serif;
+    font-size: 30px;
+    text-align: start;
+    /* padding-top: 150px; */
+}
+
+h1 {
+    /* padding-bottom: 100px; */
+    font-family: 'Rock Salt', cursive;
+}
+
+.landing-text {
+    font-family: 'Nothing You Could Do', cursive;
+}
